@@ -1,4 +1,4 @@
-$servername = XXXXXX
+$vcenterserver = XXXXXX
 
 Add-PSSnapin VMware.VimAutomation.Core
 Connect-VIServer -Server $servername
